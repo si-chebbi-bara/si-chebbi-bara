@@ -10,7 +10,3 @@ Right now I'm working on Jarvis, a self-built cross-platform personal AI assista
 
 
 If you want to see what I'm building or get in touch, [all my links are here](https://linktr.ee/itsbara_)!
-
-**Fun Facts:**
-- I stream on Twitch sometimes
-- Hobbies: gym, building things
