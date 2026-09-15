@@ -8,7 +8,6 @@ My main tech stack is React, Next.js, TypeScript, and Node.js/Express, backed by
 
 Right now I'm working on Jarvis, a self-built cross-platform personal AI assistant that can control your PC, built with React and FastAPI.
 
-I'm also the GDG Organizer and Robotics Club VP at my university.
 
 If you want to see what I'm building or get in touch, [all my links are here](https://linktr.ee/itsbara_)!
 
